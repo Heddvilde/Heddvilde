@@ -1,9 +1,7 @@
-## ********************
 ## *     Welcome      *
-## ********************
-
 
 🌱 I’m currently learning ... Python
+
 🤔 I’m looking for help with ... Very beginner tips
 <!--
 **Heddvilde/Heddvilde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
